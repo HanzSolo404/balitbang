@@ -1,9 +1,8 @@
-# webdav
 clear
 cowsay -f eyes 'WEBDAV
-# EditBy  : Hanz Kun
-# TEAM    : Solo No Team
-# CONTACT : HanzSolo404@GMAIL.COM' | lolcat
+# CREATE  : BARTES DWIKY
+# TEAM    : CLAY HACKER TEAM
+# CONTACT : BARTESDWIKY201@GMAIL.COM' | lolcat
 
 
 read -p " Website Target ==> " target
