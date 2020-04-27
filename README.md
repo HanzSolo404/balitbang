@@ -1,7 +1,7 @@
 # webdav
 clear
 cowsay -f eyes 'WEBDAV
-# CREATE  : BARTES DWIKY
+# EditBy  : Hanz Kun
 # TEAM    : Solo No Team
 # CONTACT : HanzSolo404@GMAIL.COM' | lolcat
 
